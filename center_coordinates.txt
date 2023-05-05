@@ -1,0 +1,50 @@
+Inter-Hemispheric 0.91 31.35
+Right Cerebrum 27.90 25.81
+Left Cerebrum 0.00 20.89
+
+Frontal Lobe 30.90 28.79
+Temporal Lobe 56.84 3.90
+Frontal-Temporal Space 56.86 10.81
+Limbic Lobe 9.50 21.78
+Sub-lobar 20.36 11.92
+
+Lentiform Nucleus 21.63 5.63
+Caudate 10.68 11.08
+Anterior Cingulate 8.97 32.87
+Extra-Nuclear 17.97 14.34
+Insula 38.24 10.14
+Inferior Frontal Gyrus 50.79 22.98
+Medial Frontal Gyrus 10.09 37.86
+Cingulate Gyrus 9.85 12.76
+Superior Temporal Gyrus 57.12 3.33
+Superior Frontal Gyrus 18.87 38.00
+Precentral Gyrus 52.27 6.52
+Middle Frontal Gyrus 39.49 28.35
+Sub-Gyral 28.34 21.21
+Lateral Ventricle 7.73 12.25
+Claustrum 30.24 9.67
+
+White Matter 26.97 25.15
+Gray Matter 28.64 27.54
+Cerebro-Spinal Fluid 7.73 12.27
+
+Brodmann area 6 28.34 10.48
+Corpus Callosum 7.28 19.63
+Brodmann area 9 32.90 33.20
+Brodmann area 8 24.58 30.09
+Putamen 22.35 6.05
+Caudate Head 9.46 13.02
+Caudate Body 11.32 10.06
+Medial Globus Pallidus 11.90 0.70
+Brodmann area 32 8.78 26.83
+Brodmann area 10 25.38 56.10
+Lateral Globus Pallidus 15.15 2.22
+Brodmann area 45 54.76 23.35
+Brodmann area 33 5.33 15.58
+Brodmann area 44 54.22 10.89
+Brodmann area 22 56.77 3.07
+Brodmann area 47 44.11 21.41
+Brodmann area 24 6.52 15.52
+Brodmann area 13 38.55 12.34
+Brodmann area 46 51.07 38.07
+
